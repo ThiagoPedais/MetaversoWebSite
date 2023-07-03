@@ -11,7 +11,7 @@ interface TypingTextProps {
 
 interface TitleTextProps {
     title: ReactNode;
-    textStyles: ReactNode;
+    textStyles?: ReactNode;
 }
 
 
